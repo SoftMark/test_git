@@ -2,3 +2,4 @@
 - create redis cache
 - git clone cats-website.py/github.com
 - python cats-website runserver
+- python cats-website stopserver
