@@ -1,4 +1,4 @@
 - create db cats.sql with port 5632
+- create rabbitmq
 - git clone cats-website.py/github.com
 - python cats-website runserver
-- python cats-website stopserver
