@@ -1,0 +1,3 @@
+- create db cats.sql with port 5632
+- git clone cats-website.py/github.com
+- python cats-website runserver
